@@ -39,12 +39,13 @@ Ada beberapa cara buat mulai pakai Langflow, nih pilihannya:
 - **[Langflow Desktop](https://docs.langflow.org/get-started-installation#install-and-run-langflow-desktop)**: Ini versi desktop, tapi masih Alpha, jadi belum stabil. Selain itu, cuma support di macOS, jadi kita skip dulu yang ini.
 - **[Langflow Web / Cloud Hosted Service](https://docs.langflow.org/get-started-installation#datastax-langflow)**: Versi ini hosted di cloud lewat DataStax Langflow. Kamu perlu register dan login dulu di [DataStax Langflow](https://astra.datastax.com/signup?type=langflow).
 - **[Langflow.new](https://langflow.new/ui)**: Cara paling cepat dan simpel. Tinggal buka link ini, langsung bisa pakai tanpa perlu register atau login. Tapi, semua flow yang kamu buat bakal public.
-- **[Local / Python package](https://docs.langflow.org/get-started-installation#install-and-run-langflow-oss)**: Install langsung di local device kamu. Ini yang paling fleksibel, apalagi kalau mau coba integrasi sama LLM lokal kayak Olama.
+- **[Local / Python package](https://docs.langflow.org/get-started-installation#install-and-run-langflow-oss)**: Install langsung di local device kamu. Ini yang paling fleksibel, apalagi kalau mau coba integrasi sama LLM lokal kayak [Ollama](https://ollama.com/) dan [MCP](https://github.com/modelcontextprotocol/servers).
 
 Aku pribadi lebih sering pakai yang local karena lebih bebas dan gampang buat eksperimen. Tapi kalau device kamu nggak support atau ada kendala install, nggak masalah pakai versi Cloud Hosted Service aja. Tinggal register dan login, beres.
 
 Kalau mau install Langflow di local, ikutin langkah-langkah di exercise ini:
-* [Exercise 1 : Install Langflow.md](exercises/exercise%201%20%3A%20Install%20Langflow.md)
+* [Exercise 0 : Install Langflow.md](exercises/exercise%200%20:%20Install%20Langflow.md)
+* Versi videonya bisa kamu lihat di [YouTube Exercise 0: Cara Install Langflow](https://youtu.be/KPtFHbBm1I4).
 
 ---
 

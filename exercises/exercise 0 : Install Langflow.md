@@ -32,3 +32,7 @@ Untuk deaktifin virtual environment, kamu bisa pakai perintah ini:
 ```
 
 Kalau ada masalah atau pengen lihat panduan lebih detail, atau kalau kamu lebih nyaman pakai `pip`, bisa langsung cek dokumentasi Langflow di sini (https://docs.langflow.org/get-started-installation#install-and-run-langflow-oss).
+
+
+Versi videonya bisa kamu lihat di Youtube Exercise 0: Cara Install Langflow
+[![Exercise 0: Cara Install Langflow](https://img.youtube.com/vi/KPtFHbBm1I4/0.jpg)](https://www.youtube.com/watch?v=KPtFHbBm1I4)
