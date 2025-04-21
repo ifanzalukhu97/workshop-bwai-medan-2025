@@ -2,7 +2,7 @@
 
 Di sini kita bakal pakai `uv` buat install Langflow, karena kadang kalau pakai `pip` suka ada kendala.
 
-Sebelum mulai, pastikan kamu udah install `uv` dan `python` di device kamu, sesuai yang dijelasin di bagian **prerequisites** di [readme.md](../readme.md).
+Sebelum mulai, pastikan kamu udah install `uv` dan `python` di device kamu, sesuai yang dijelasin di bagian **prerequisites** di [readme.md](../../readme.md).
 
 Disini kita menggunakan virtual environment (venv) untuk menghindari konflik dengan package lain yang mungkin udah terinstall di sistem kamu. Jadi, kita bakal bikin virtual environment baru dan aktifin itu sebelum install Langflow.
 ```bash

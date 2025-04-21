@@ -27,7 +27,7 @@ Buat ngecek apakah semua prerequisites sudah terinstall dengan benar, kamu bisa 
   uv --version
 ```
 Kalau sudah terinstall, kamu bakal lihat versi Python dan uv/pip yang ada di sistem kamu. Pastikan versinya sesuai dengan yang disarankan di atas.
-![prerequisites.png](images/prerequisites.png)
+![prerequisites.png](exercises/exercise%200/images/prerequisites.png)
 
 
 ---
@@ -44,7 +44,7 @@ Ada beberapa cara buat mulai pakai Langflow, nih pilihannya:
 Aku pribadi lebih sering pakai yang local karena lebih bebas dan gampang buat eksperimen. Tapi kalau device kamu nggak support atau ada kendala install, nggak masalah pakai versi Cloud Hosted Service aja. Tinggal register dan login, beres.
 
 Kalau mau install Langflow di local, ikutin langkah-langkah di exercise ini:
-* [Exercise 0 : Install Langflow.md](exercises/exercise%200%20:%20Install%20Langflow.md)
+* [Exercise 0 : Install Langflow.md](exercises/exercise%200/exercise%200%20%3A%20Install%20Langflow.md)
 * Versi videonya bisa kamu lihat di [YouTube Exercise 0: Cara Install Langflow](https://youtu.be/KPtFHbBm1I4).
 
 ---
