@@ -64,4 +64,4 @@ Dan ini di handle oleh agent / LLM secara otomatis.
    Dimana kalau dilihat disini, llm / agentnya otomatis menjalankan tools url / fetch nya untuk mengakses website informasi dari speakernya.
 
 ## Sekedar catatan :
-- Disini kita menggunakan model yg experimental, jadi mungkin ada beberapa hal yg tidak sesuai harapan. Dan kalau di production mungkin 
+- Disini kita menggunakan model yg experimental, jadi mungkin ada beberapa hal yg tidak sesuai harapan. Dan kalau di production mungkin model yg lebih baru.
