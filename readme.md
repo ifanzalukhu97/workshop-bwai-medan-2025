@@ -48,7 +48,22 @@ Kalau mau install Langflow di local, ikutin langkah-langkah di exercise ini:
 * Versi videonya bisa kamu lihat di [YouTube Exercise 0: Cara Install Langflow](https://youtu.be/KPtFHbBm1I4).
 
 ---
+## Exercises
+Disini terdapat beberapa latihan yang bisa kamu coba untuk belajar Langflow lebih dalam. Dan dia bersifat step-by-step dan berkelanjutan dari exercise sebelumnya.
+- Exercise 0: [Install Langflow](exercises/exercise%200/exercise%200%20%3A%20Install%20Langflow.md). 
+  - Ini bisa di skip jika ingin menggunakan Langflow Web / Cloud Hosted Service.
+- Exercise 1: [Quickstart & Simple Flow](exercises/exercise%201/exercise%201%20%3A%20Quickstart%20%26%20Simple%20Flow.md). 
+  - Disini kita akan belajar cara membuat flow sederhana menggunakan Langflow.
+- Exercise 2: [RAG Basic](exercises/exercise%202/exercise%202%20%3A%20RAG%20Basic.md).
+  - Disini akan belajar cara membuat flow menggunakan komponen File di Langflow untuk mengupload file yang akan digunakan sebagai knowledge base llm / agentnya.
+- Exercise 3: [Url Tool](exercises/exercise%203/exercise%203%20%3A%20Url%20Tool.md).
+  - Disini kita akan mengembangkan flownya untuk bisa akses ke internet / website dengan menggunakan tool `Url / Fetch`.
+- Exercise 4: [exercise 4 - publish.md](exercises/exercise%204%20/exercise%204%20-%20publish.md).
+  - Disini kita akan belajar cara publish flow yang sudah kita buat agar bisa diakses oleh orang lain.
+- Exercise 5 : WIP
+- Exercise 6 : WIP
 
+---
 ## Questions / Issues
 Kalau ada pertanyaan atau masalah, feel free untuk submit atau open `issue` di repo ini. Kamu juga bisa langsung email aku di `ivan.zalukhu97@gmail.com`.
 
