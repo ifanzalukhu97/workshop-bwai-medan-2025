@@ -4,7 +4,7 @@ Disini kita mulai perkenalan tentang basic RAG (Retrieval-Augmented Generation) 
 
 ## Prerequisites 
 - Pastikan sudah **menyeleaikan [exersise 1](../exercise%201/exercise%201%20%3A%20Quickstart%20%26%20Simple%20Flow.md)**. 
-Kalau belum, bisa import flow yg sudah kita buat di exercise 1 menggunakan file `GDG Agent - Exercise 1` yang ada di disini ini [GDG Agent - Exercise 1.json](../exercise%201/flow/GDG%20Agent%20-%20Exercise%201.json). 
+Kalau belum, bisa import flow yg sudah kita buat di exercise 1 menggunakan file `GDG Agent - Exercise 1` yang ada di disini [GDG Agent - Exercise 1.json](../exercise%201/flow/GDG%20Agent%20-%20Exercise%201.json). 
 Cara import flow bisa mengikuti panduan di [Import Flow](https://docs.langflow.org/components-data#file).
 
 
