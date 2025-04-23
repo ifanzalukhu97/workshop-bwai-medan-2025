@@ -12,11 +12,10 @@ Setelah sesi ini, harapannya kamu bisa:
 Event ini adalah bagian dari Google Cloud Roadshows x Build with AI, salah satu event pembelajaran terbesar yang digerakkan oleh komunitas dan diselenggarakan oleh Google Developer Groups (GDG) Medan. Event ini dirancang untuk memberdayakan developer, pelajar, dan profesional teknologi dengan mengeksplorasi kemampuan Google Cloud Platform (GCP) dan Artificial Intelligence (AI).
 
 
----
 ## Video Playlist
 Untuk exercise ini yg versi videonya, bisa diakses di youtube playlist [Build Your First AI Agent with Langflow + Google Generative AI](https://www.youtube.com/playlist?list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE) ini
 - Link : https://www.youtube.com/playlist?list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE
----
+
 
 ## Prerequisites
 Sebelum mengikuti workshop ini, pastikan kamu sudah menyiapkan hal-hal berikut:
