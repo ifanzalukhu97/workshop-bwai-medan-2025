@@ -13,6 +13,10 @@ Event ini adalah bagian dari Google Cloud Roadshows x Build with AI, salah satu 
 
 
 ---
+## Video Playlist
+Untuk exercise ini yg versi videonya, bisa diakses di youtube playlist [Build Your First AI Agent with Langflow + Google Generative AI](https://www.youtube.com/playlist?list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE) ini
+- Link : https://www.youtube.com/playlist?list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE
+---
 
 ## Prerequisites
 Sebelum mengikuti workshop ini, pastikan kamu sudah menyiapkan hal-hal berikut:
@@ -65,7 +69,6 @@ Disini terdapat beberapa latihan yang bisa kamu coba untuk belajar Langflow lebi
   - Disini kita akan belajar cara publish flow yang sudah kita buat agar bisa diakses oleh orang lain.
 - Exercise 5 : [exercise 5 - MCP Basic.md](exercises/exercise%205/exercise%205%20:%20MCP%20Basic.md).
   - Disini kita akan belajar cara menggunakan `MCP` ([Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)) di Langflow.
-- Exercise 6 : WIP
 
 ---
 ## Questions / Issues

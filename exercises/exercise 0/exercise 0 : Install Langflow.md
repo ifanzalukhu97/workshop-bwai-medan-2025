@@ -1,5 +1,10 @@
 # Install Langflow
 
+Versi videonya bisa kamu lihat di Youtube Exercise 0: Cara Install Langflow
+[![Exercise 0: Cara Install Langflow](https://img.youtube.com/vi/KPtFHbBm1I4/0.jpg)](https://www.youtube.com/embed/KPtFHbBm1I4?si=g_4-9_7vNzuBxtsD)
+
+---
+
 Di sini kita bakal pakai `uv` buat install Langflow, karena kadang kalau pakai `pip` suka ada kendala.
 
 Sebelum mulai, pastikan kamu udah install `uv` dan `python` di device kamu, sesuai yang dijelasin di bagian **prerequisites** di [readme.md](../../readme.md).

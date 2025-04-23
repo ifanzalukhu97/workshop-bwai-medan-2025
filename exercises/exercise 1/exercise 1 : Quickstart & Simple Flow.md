@@ -1,5 +1,10 @@
 # Quickstart & Simple Flow
 
+Versi videonya bisa kamu lihat di Youtube Exercise 0: Cara Install Langflow
+[![Exercise 1: Quickstart & Simple Flow](https://img.youtube.com/vi/Gl4HgWuFfXE/0.jpg)](https://www.youtube.com/embed/Gl4HgWuFfXE?si=T-vJDTTtBF6619)
+
+---
+
 Disini kita mulai dari yang paling dasar, yaitu bikin flow sederhana yang bisa kita pakai buat ngetes Langflow.
 Sekalian sedikit berkenalan sama Langflow. Agar nantinya lebih familiar dengan tampilan dan cara kerjanya.
 
