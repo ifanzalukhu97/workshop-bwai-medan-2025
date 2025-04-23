@@ -20,6 +20,9 @@ Sebelum mengikuti workshop ini, pastikan kamu sudah menyiapkan hal-hal berikut:
 - **[uv](https://docs.astral.sh/uv/getting-started/installation/) dan [pip](https://pypi.org/project/pip/)**: Disarankan untuk menggunakan `uv` karena lebih cepat dan modern. Di workshop ini, kita akan banyak menggunakan `uv`, tetapi jika kamu lebih nyaman dengan `pip`, itu juga tidak masalah karena fungsinya tidak jauh berbeda. Kalau pakai uv tetap perlu install pip juga. Untuk install `uv`, ikuti panduan di sini (https://docs.astral.sh/uv/getting-started/installation/), sesuaikan dengan OS kamu. 
 - **Gemini Developer API Key**: Kamu bisa dapetin keynya dari link [Google AI Studio](https://aistudio.google.com/apikey) ini.
 
+**Optional**: 
+- **Docker**: Ini optional / tidak wajib, tapi kalau mau coba fitur MCP di Exercise 4, kamu perlu install Docker untuk menjalankan MCP servernya.
+
 Buat ngecek apakah semua prerequisites sudah terinstall dengan benar, kamu bisa coba jalanin perintah ini di terminal:
 ```bash
   python --version
@@ -60,7 +63,8 @@ Disini terdapat beberapa latihan yang bisa kamu coba untuk belajar Langflow lebi
   - Disini kita akan mengembangkan flownya untuk bisa akses ke internet / website dengan menggunakan tool `Url / Fetch`.
 - Exercise 4: [exercise 4 - publish.md](exercises/exercise%204%20/exercise%204%20-%20publish.md).
   - Disini kita akan belajar cara publish flow yang sudah kita buat agar bisa diakses oleh orang lain.
-- Exercise 5 : WIP
+- Exercise 5 : [exercise 5 - MCP Basic.md](exercises/exercise%205/exercise%205%20:%20MCP%20Basic.md).
+  - Disini kita akan belajar cara menggunakan `MCP` ([Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)) di Langflow.
 - Exercise 6 : WIP
 
 ---
