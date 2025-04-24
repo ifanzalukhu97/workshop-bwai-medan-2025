@@ -34,7 +34,7 @@ Dan ini di handle oleh agent / LLM secara otomatis.
 3. Hubungkan `Toolset` komponen Url ke `Tools` di komponen Agent, sehingga kurang lebih overviewnya seperti ini : ![image1.png](images/image1.png)
 4. Ubah `Template` di komponen Parser, menjadi seperti ini : 
     ```text
-    Event Name: {Event Name}. Event Date {Date}. Link: {Link}.
+    Event Name: {Event Name}. Event Date {Date}. Link: {Url}.
     ```
 5. Ubah `Agent Instruction` di komponen Agent menjadi seperti ini : 
     ```text
