@@ -1,5 +1,10 @@
 # Publish
 
+Versi videonya bisa kamu lihat / click Youtube di bawah ini :
+
+[![Exercise 4: Publish](https://img.youtube.com/vi/20h8FskowAQ/0.jpg)](https://www.youtube.com/watch?v=NCWE8_rBmrE&list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE&index=5)
+
+
 Ok, kita sampai di exercise ke 4, yaitu kita akan publish flow yang sudah kita buat sebelumnya.
 
 ## Prerequisites
@@ -32,6 +37,26 @@ Ok, coba kita publish flownya dengan cara API access, dan kita coba akses menggu
     ```
    Kurang lebih seperti itu hasilnya, harus di format terlebih dahulu JSON nya agar lebih mudah previewnya. 
 5. Hasil chat ini juga akan tercatat di Playground.
+
+Nb : 
+Kalau mengalami saat menjalankan `api-access.py`, bisa coba install `requests` terlebih dahulu di virtual env pythonnya, dengan perintah : 
+1. Buat virtual environment baru
+    ```bash
+      uv venv
+    ```
+2. Aktifkan virtual environment yang udah kamu buat:
+    ```bash
+      source .venv/bin/activate # di Linux/Mac
+      .venv\Scripts\activate # di Windows
+    ```
+3. Install requests
+    ```bash
+      uv pip install requests
+    ```
+4. Jalankan kembali `api-access.py`
+    ```bash
+      python api-access.py
+    ```
 
 
 ## Embed into site

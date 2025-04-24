@@ -1,5 +1,9 @@
 # RAG (Retrieval-Augmented Generation) Basic
 
+Versi videonya bisa kamu lihat / click Youtube di bawah ini :
+
+[![Exercise 2: RAG Basic](https://img.youtube.com/vi/20h8FskowAQ/0.jpg)](https://www.youtube.com/watch?v=20h8FskowAQ&list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE&index=4&t=2s)
+
 Disini kita mulai perkenalan tentang basic RAG (Retrieval-Augmented Generation) dengan Langflow, menggunakan komponen File di Langflow untuk mengupload file yang akan kita gunakan sebagai knowledge base kita.
 
 ## Prerequisites 
