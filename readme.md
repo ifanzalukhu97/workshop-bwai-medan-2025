@@ -67,12 +67,16 @@ Disini terdapat beberapa latihan yang bisa kamu coba untuk belajar Langflow lebi
   - Disini akan belajar cara membuat flow menggunakan komponen File di Langflow untuk mengupload file yang akan digunakan sebagai knowledge base llm / agentnya.
 - Exercise 3: [Url Tool](exercises/exercise%203/exercise%203%20%3A%20Url%20Tool.md).
   - Disini kita akan mengembangkan flownya untuk bisa akses ke internet / website dengan menggunakan tool `Url / Fetch`.
-- Exercise 4: [exercise 4 - publish.md](exercises/exercise%204%20/exercise%204%20-%20publish.md).
+- Exercise 4: [Publish](exercises/exercise%204%20/exercise%204%20-%20publish.md).
   - Disini kita akan belajar cara publish flow yang sudah kita buat agar bisa diakses oleh orang lain.
-- Exercise 5 : [exercise 5 - MCP Basic.md](exercises/exercise%205/exercise%205%20:%20MCP%20Basic.md).
+- Exercise 5 : [MCP Basic](exercises/exercise%205/exercise%205%20:%20MCP%20Basic.md).
   - Disini kita akan belajar cara menggunakan `MCP` ([Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)) di Langflow.
 
 ---
+
+## Slide Presentation Link
+Untuk slide presentasi workshop ini, bisa diakses di [Google Slides](https://docs.google.com/presentation/d/1tPhYybKq_bVwmELZiulsH3iSBBftJjCBOHrQ5fcChoY/edit?usp=sharing) ini.
+
 ## Questions / Issues
 Kalau ada pertanyaan atau masalah, feel free untuk submit atau open `issue` di repo ini. Kamu juga bisa langsung email aku di `ivan.zalukhu97@gmail.com`.
 

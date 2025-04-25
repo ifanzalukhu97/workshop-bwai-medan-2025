@@ -23,6 +23,10 @@ Untuk install Langflow, cukup jalankan perintah ini di terminal:
 ```bash
   uv pip install langflow
 ```
+Atau jika ingin menggunakan spesifik versi, bisa pakai perintah ini:
+```bash
+  uv pip install langflow==1.3.4 --force-reinstall
+```
 
 Kalau installnya berhasil, kamu bisa langsung jalanin Langflow dengan command ini:
 ```bash
