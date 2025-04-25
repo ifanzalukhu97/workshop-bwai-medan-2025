@@ -2,7 +2,7 @@
 
 Versi videonya bisa kamu lihat / click Youtube di bawah ini :
 
-[![Exercise 5: MCP Basic](https://img.youtube.com/vi/20h8FskowAQ/0.jpg)](https://www.youtube.com/watch?v=LaCn7siOeYA&list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE&index=6)
+[![Exercise 5: MCP Basic](https://img.youtube.com/vi/LaCn7siOeYA/0.jpg)](https://www.youtube.com/watch?v=LaCn7siOeYA&list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE&index=6)
 
 
 Ok, disini kita akan belajar cara menggunakan `MCP` ([Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)) di Langflow. 

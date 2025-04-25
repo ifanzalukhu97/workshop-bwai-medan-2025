@@ -1,5 +1,8 @@
 # Workshop Build with AI Medan 2025
 
+[![Overview Workshop AI Agent with Langflow](https://img.youtube.com/vi/xw_fcCM9Jyo/0.jpg)](https://www.youtube.com/watch?v=xw_fcCM9Jyo&list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE&index=7)
+
+
 Proyek ini adalah repository untuk latihan workshop **Build Your First AI Agent with Langflow + Google Generative AI** yang diadakan di event [Google Cloud Roadshow x Build with AI Medan 2025](https://gdg.community.dev/events/details/google-gdg-medan-presents-google-cloud-roadshows-x-build-with-ai-medan-2025/).
 
 Di workshop ini, kita akan belajar bareng cara bikin AI agent pertama kamu menggunakan Langflow, sebuah low-code tools yang memudahkan kamu mendesain AI agent secara visual tanpa perlu coding yang rumit. Kita juga akan mengintegrasikan Langflow dengan Google Generative AI models seperti Gemini dari Vertex AI untuk membangun aplikasi AI interaktif dari awal.

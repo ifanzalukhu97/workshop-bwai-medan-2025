@@ -2,7 +2,7 @@
 
 Versi videonya bisa kamu lihat / click Youtube di bawah ini :
 
-[![Exercise 3: Url Tool](https://img.youtube.com/vi/20h8FskowAQ/0.jpg)](https://www.youtube.com/watch?v=UT_9pdnk3Xg&list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE&index=4)
+[![Exercise 3: Url Tool](https://img.youtube.com/vi/UT_9pdnk3Xg/0.jpg)](https://www.youtube.com/watch?v=UT_9pdnk3Xg&list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE&index=4)
 
 
 Disini kita akan mengembangkan flownya untuk bisa akses ke internet / website dengan menggunakan tool `Url / Fetch`.

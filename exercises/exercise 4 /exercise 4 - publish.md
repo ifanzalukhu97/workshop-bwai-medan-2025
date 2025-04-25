@@ -2,7 +2,7 @@
 
 Versi videonya bisa kamu lihat / click Youtube di bawah ini :
 
-[![Exercise 4: Publish](https://img.youtube.com/vi/20h8FskowAQ/0.jpg)](https://www.youtube.com/watch?v=NCWE8_rBmrE&list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE&index=5)
+[![Exercise 4: Publish](https://img.youtube.com/vi/NCWE8_rBmrE/0.jpg)](https://www.youtube.com/watch?v=NCWE8_rBmrE&list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE&index=5)
 
 
 Ok, kita sampai di exercise ke 4, yaitu kita akan publish flow yang sudah kita buat sebelumnya.
