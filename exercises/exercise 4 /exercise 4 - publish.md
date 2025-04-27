@@ -38,25 +38,30 @@ Ok, coba kita publish flownya dengan cara API access, dan kita coba akses menggu
    Kurang lebih seperti itu hasilnya, harus di format terlebih dahulu JSON nya agar lebih mudah previewnya. 
 5. Hasil chat ini juga akan tercatat di Playground.
 
-Nb : 
-Kalau mengalami saat menjalankan `api-access.py`, bisa coba install `requests` terlebih dahulu di virtual env pythonnya, dengan perintah : 
-1. Buat virtual environment baru
-    ```bash
-      uv venv
-    ```
-2. Aktifkan virtual environment yang udah kamu buat:
-    ```bash
-      source .venv/bin/activate # di Linux/Mac
-      .venv\Scripts\activate # di Windows
-    ```
-3. Install requests
-    ```bash
-      uv pip install requests
-    ```
-4. Jalankan kembali `api-access.py`
-    ```bash
-      python api-access.py
-    ```
+> ⚠️ **Catatan:** Jika mengalamin error saat run filenya, bisa sesuaiin dengan error yang muncul.
+
+1. Kalau mengalami error `ModuleNotFoundError : No module named 'request'` saat menjalankan `api-access.py`, bisa coba install `requests` terlebih dahulu di virtual env pythonnya, dengan perintah : 
+   - Buat virtual environment baru
+       ```bash
+         uv venv
+       ```
+   - Aktifkan virtual environment yang udah kamu buat:
+       ```bash
+         source .venv/bin/activate # di Linux/Mac
+         .venv\Scripts\activate # di Windows
+       ```
+   - Install requests
+       ```bash
+         uv pip install requests
+       ```
+   - Jalankan kembali `api-access.py`
+       ```bash
+         python api-access.py
+       ```
+   
+2. Sedangkan jika mengalami error `Api Key`, bisa coba tambahkan API Key di `Langflow API` terlebih dahulu menggunakan cara di dokumentasi [Langflow API keys](https://docs.langflow.org/configuration-api-keys) ini.
+Nanti key tersebut yg digunakan di `x-api-key` saat jalankan file api-access.py dan embed.html.
+
 
 
 ## Embed into site
