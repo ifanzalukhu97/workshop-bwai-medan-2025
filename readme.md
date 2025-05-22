@@ -1,7 +1,12 @@
 # Workshop Build with AI Medan 2025
 
-[![Overview Workshop AI Agent with Langflow](https://img.youtube.com/vi/xw_fcCM9Jyo/0.jpg)](https://www.youtube.com/watch?v=xw_fcCM9Jyo&list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE&index=7)
+![Workshop Documentation](https://media.licdn.com/dms/image/v2/D5622AQFxk8JxfT-Yew/feedshare-shrink_2048_1536/B56ZZ35w_kHsAo-/0/1745768356039?e=1750896000&v=beta&t=YBKW-Gg9VuVi4BuVv6KrEIuVofxUotvVE76zTL13HkA)
 
+![Workshop Documentation](https://media.licdn.com/dms/image/v2/D5622AQFygOBt7pkUEg/feedshare-shrink_2048_1536/B56ZZ35w_oGkAs-/0/1745768356149?e=1750896000&v=beta&t=fM-ogd8Ni6OJdIyKBT764MSc9rHtaJWM4FGyppD8RxU)
+
+![Workshop Documentation](https://media.licdn.com/dms/image/v2/D5622AQFLD5B7pRujFA/feedshare-shrink_2048_1536/B56ZZ35w_ZGQAo-/0/1745768356137?e=1750896000&v=beta&t=hekVh9nCYmn3FWJrgd08PD0br2LvxEPOLtIXnEBre4k)
+
+![Workshop Documentation](https://media.licdn.com/dms/image/v2/D5622AQH7nlR07Jr4Dg/feedshare-shrink_2048_1536/B56ZZ35w_XHUAs-/0/1745768355914?e=1750896000&v=beta&t=eaJWPpF6bTkTzSlRijYSYc3Tiq_EMm2jxnLZpDygVyU)
 
 Proyek ini adalah repository untuk latihan workshop **Build Your First AI Agent with Langflow + Google Generative AI** yang diadakan di event [Google Cloud Roadshow x Build with AI Medan 2025](https://gdg.community.dev/events/details/google-gdg-medan-presents-google-cloud-roadshows-x-build-with-ai-medan-2025/).
 
@@ -18,6 +23,10 @@ Event ini adalah bagian dari Google Cloud Roadshows x Build with AI, salah satu 
 ## Video Playlist
 Untuk exercise ini yg versi videonya, bisa diakses di youtube playlist [Build Your First AI Agent with Langflow + Google Generative AI](https://www.youtube.com/playlist?list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE) ini
 - Link : https://www.youtube.com/playlist?list=PLnyg3GbBr0YZdCyFGPrOebH_vhFMb9FeE
+
+
+## Workshop Documentation Video
+- [Full Workshop Documentation Video](https://youtu.be/a9zUdmJ1Ku8?t=19350) - Video dokumentasi lengkap workshop Build with AI Medan 2025.
 
 
 ## Prerequisites
@@ -86,3 +95,5 @@ Repo ini free dan public, jadi feel free untuk digunakan atau di-clone/fork kala
 
 ## Contribution
 Kalau kamu tertarik kontribusi seperti fixing kendala, typo, atau mau nambahin use case baru, silakan fork repo ini dan buat pull request-nya. Kalau repo ini dirasa bermanfaat dan membantu, boleh banget di-star GitHub repo-nya biar makin banyak yang tahu dan bisa belajar bareng. 😊
+
+
